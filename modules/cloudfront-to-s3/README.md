@@ -9,7 +9,6 @@
 
 | Name | Version |
 |------|---------|
-| <a name="provider_aws"></a> [aws](#provider\_aws) | 4.41.0 |
 | <a name="provider_aws.acm"></a> [aws.acm](#provider\_aws.acm) | 4.41.0 |
 | <a name="provider_aws.cloudfront"></a> [aws.cloudfront](#provider\_aws.cloudfront) | 4.41.0 |
 | <a name="provider_aws.s3"></a> [aws.s3](#provider\_aws.s3) | 4.41.0 |
